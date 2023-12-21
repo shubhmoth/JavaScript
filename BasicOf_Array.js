@@ -33,6 +33,18 @@ console.log(myArr2)
 const newArr = myArr1.join() // Converts the array type from object to string
 console.log(typeof newArr) // string
 console.log(newArr) // same array withot bracket comma separated
+console.log();console.log()
+
 
 //slice and splice    ++++++++ IMPORTANT +++++++
+const A = [1,2,3,4,5]
+console.log("A is "+A)
+console.log("On Applying SLICE(1,3) Operttion on A : "+A.slice(1,3))    // 2,3              last index is not included
+console.log("After that original A is : "+A)      // Array will remai same 
+console.log()
+const B = [10,20,30,40,50]
+console.log("B is "+B)
+console.log("On applying SPLICE(1,3) operation on B : "+B.splice(1,3)) // 20,30,40           last index is included
+console.log("After that original B is : "+B)      // Spliced Elemnt will be removed from the array and new array will reflect
+
 
