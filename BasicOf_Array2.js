@@ -1,4 +1,4 @@
-// from , is , of Functions in ARRAY
+// from , is , of Functions of ARRAY in JS
 
 const arr1 = [1,2,3,4]
 const arr2 = [5,6,7,8,8]
