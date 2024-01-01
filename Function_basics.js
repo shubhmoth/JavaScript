@@ -1,4 +1,4 @@
-// function se aram se baar baar ek hi kaam krva loge 
+// function se aram se baar baar ek hi kaam krva loge
 // baar baar ek hi kam krne se achha h ek function bnao us m kaam kro aur jab bhi vo kaam dubara krna ho call function
 
 function myName(){  //function declare kr diya re
