@@ -27,3 +27,10 @@ MODULE 2
 3. Difference between push_pop and unshift_shift opertions in JS. Also difference b/w their time complexities
 4. Which function is used in JS to convert the Array to String
 5. what is Difference between splice and slice operations in arrays in JavaScript
+
+
+MODULE 3 
+Document Object Model 
+
+1. What is the primary difference between innerHTML, innerText and textContent. (basically innerText gives the text visible while textContent gives the whole text)
+2. 
